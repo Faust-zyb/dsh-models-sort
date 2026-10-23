@@ -1,6 +1,6 @@
 {
   "name": "dsh-models-sort",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "给 DSH 设置页的模型供应商列表加上 CC Switch 式拖拽排序与隐藏。按住卡片上的手柄上下拖动，其他卡片实时让位，松手顺序立即生效并写回 cordis.patch.yml；每张卡片可一键隐藏，隐藏的供应商集中到「已隐藏」分组，同时从聊天框的模型选择器里移除。",
   "keywords": [
     "dsh",
