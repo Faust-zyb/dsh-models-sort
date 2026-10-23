@@ -1,0 +1,5 @@
+# dsh-models-sort 的挂载声明：把插件行插进 DSH 配置树。
+# id 必须与包名一致。
+- insert:
+    - id: dsh-models-sort
+      name: 'dsh-models-sort'
